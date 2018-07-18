@@ -1,6 +1,5 @@
 # XDaggerGUI
-A high performance GUI miner forked from XDaggerGPUminer that adding more useful features
-
+A high performance GUI miner forked from XDaggerGPUminer that adds a lot of useful functions on the basis of the original version.
 
 This tool is forked from XDaggerGUIMiner open source project, Can be used to reduce the workload of configurations.
 
