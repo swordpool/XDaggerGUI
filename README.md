@@ -1,13 +1,19 @@
 # XDaggerGUI
-A high performance GUI miner forked from XDaggerGPUminer which added more useful features
+A high performance GUI miner forked from XDaggerGPUminer that adding more useful features
 
 
-
-This miner is forked from XDaggerGUIMiner project, and added some useful features can be used to reduce the complexity of configuration.
+This tool is forked from XDaggerGUIMiner open source project, Can be used to reduce the workload of configurations.
 
 Useful Features:
 
-"Basic" Tab is used to set basic parameters, "Statistics" Tab is used to show the instant statistics of mining and devices. "Console" Tab is the output of original XDaggerGUIMiner. "Exchange" Tab is a hopeful feature will be implemented in future, it is used to sell out of XDAG automatically.
+A. "Basic" Tab
+  Is used to set basic parameters for controlling basic behavor.
+B. "Statistics" Tab
+  Is used to show the instant statistics of mining and devices. 
+C. "Console" Tab
+  Is the output of original XDaggerGUIMiner. 
+D. "Exchange" Tab 
+  will be implemented in future, target is to sell out of XDAG automatically.
 
 1. Every rig has "Rig ID" that shows on the top of GUI window, which can be used to be as an unique number to be monitored on our website.
 2. Setting wallet of XDAG is very easy to finish, Only need to fill it in the field of wallet on the GUI window.
